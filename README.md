@@ -103,6 +103,10 @@ Shared by people out of love, for the community. No guarantees.
 - [jayree](https://github.com/jayree/sfdx-jayree-plugin) 
 
   Deploys changesets, updates state and country picklists and other helpful time-savers. 
+  
+- [ApexLink](https://github.com/nawforce/ApexLink)
+
+  Plugin to access Java library for static analysis of Salesforce Apex code. Can identify unused properties and methods. 
 
 ## Not plugins, but useful
 
