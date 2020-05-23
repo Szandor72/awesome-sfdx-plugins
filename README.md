@@ -104,7 +104,7 @@ Shared by people out of love, for the community. No guarantees.
 
   Deploys changesets, updates state and country picklists and other helpful time-savers. 
   
-- [ApexLink](https://github.com/nawforce/ApexLink) by Kevin Jones [@nawforce](https://twitter.com/nawforce)
+- [ApexLink](https://github.com/nawforce/ApexLink) (Kevin Jones [@nawforce](https://twitter.com/nawforce))
 
   Plugin to access Java library for static analysis of Salesforce Apex code. Can identify unused properties and methods. 
 
